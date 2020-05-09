@@ -20,3 +20,11 @@ http://127.0.0.1:8000/polls/9/
 http://127.0.0.1:8000/polls/9/results/
 
 ```
+
+
+
+> **Note:**
+>
+> mysite - Django Project (only Django)
+>
+> pollsApi - Django Project (through API)
